@@ -210,9 +210,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **PyTorch**: For the underlying deep learning framework
 
 
-## Contact
 
-📧 akshaysaitwal9@gmail.com | 🚀 [GitHub](https://github.com/akshau094?tab=repositories) | 💬 [LinkedIn](https://www.linkedin.com/in/akshay-saitwal-462bb4286/)
+<div align="center">
 
 ## 📞 Get In Touch
 
