@@ -12,7 +12,10 @@ Here, we will go through the steps required for setting up the project and some 
 **libraries:** Install all the important libraries to run the code.
 
 ```
-brew install opencv
+note : if any error occurs while installing the libraries, try to install the libraries again.
+
+```
+**brew** install opencv
 pip install numpy pillow
 pip install opencv-python
 pip install opencv-contrib-python
@@ -20,9 +23,6 @@ pip install opencv-python-headless
 pip install opencv-contrib-python-headless
 pip install matplotlib
 pip install imutils
-
-note : if any error occurs while installing the libraries, try to install the libraries again.
-
 ```
 
 
